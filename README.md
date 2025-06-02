@@ -35,4 +35,4 @@ A comprehensive hotel management system developed for Hotel. This system support
 2. Role-based redirection and dashboard
 3. CRUD operations for users, rooms, and reservations
 4. Data validation to prevent logical errors
-5. Persistent storage using text files (or specify DB if applicable)
+5. Persistent storage using text files
